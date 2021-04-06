@@ -81,7 +81,7 @@ header{
 }
 
 #home {
-    background-image: url(../images/IMG-2424.JPG);
+    background-image: url(../images/IMG-2424.JPG),linear-gradient(#c9ffbf, #ffafbd);
     background-blend-mode: luminosity;
     min-height: 100vh;  
 }
